@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+article{
+    background-color: aqua;
+    flex: 2;
+    overflow-y: auto;
+}
+.aritcle{
+    display: flex;
+    flex-direction: row;
+}
+.article-header{
+    background-blue: 🔵;
+}
+article img{
+    border-radius: 50px;
+}
+aside{
+    display: flex;
+    flex: 1;
+    overflow-y: auto;
+}
