@@ -1,9 +1,14 @@
-/* SUMMARY
-    1. GLOBAL
-    2. LAYOUT
-    3. SECTION
-    4. CARD
-*/
+
+/* selector for the row class */
+.row{
+	display: flex;}
+}
+/* Remove the row:: after declaration */
+
+/* Remove the float:left inside [class*='col-'] */
+[class='col_']{
+/* your other properties for column elements */
+}
 
 /*** 1. GLOBAL ***/
 
