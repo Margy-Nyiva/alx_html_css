@@ -167,6 +167,17 @@
   
   /* Grid
       ============================= */
+  /* selector for the row class */
+  .row {
+  	display: flex;
+  }
+  
+  /* Remove the row::after declaration */
+  
+  /*Remove the class::left inside [class*='col-']*/
+  [class*='col-'] {
+  	/* your other properties for column elements */
+  }
   
   ul.row {
     margin: 0;
