@@ -17,5 +17,3 @@ This project is licensed under the MIT License. You are free to use the code and
 
 #Acknowledgments
 Special thanks to the contributors who have helped in creating the examples and gathering the resources.
-
-Happy coding with Flexbox!
